@@ -1,0 +1,3 @@
+<!-- @format -->
+
+parcel-ts-template

@@ -1,3 +1,6 @@
-<!-- @format -->
+## typescript library template
 
-parcel-ts-template
+-   eslint
+-   prettier
+-   typescript
+-   jest
